@@ -1,9 +1,9 @@
 # 💫 About Me:
-🚀 Currently enhancing UX in a React.js/Node.js web app. 
-👯 Seeking React.js/Node.js projects. 
-🤝 Need help optimizing Node.js server performance. 
-🌱 Learning advanced React.js concepts. 
-💬 Ask me anything about React.js/Node.js/NestJS. 
+🚀 Currently enhancing UX in a React.js/Node.js web app. <br>
+👯 Seeking React.js/Node.js projects. <br>
+🤝 Need help optimizing Node.js server performance. <br>
+🌱 Learning advanced React.js concepts. <br>
+💬 Ask me anything about React.js/Node.js/NestJS. <br> 
 ⚡ Fun fact: Implemented real-time collaboration with WebSockets. Let's collaborate or chat about web dev! 🚀✨
 
 
