@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on: Enhancing the user experience of a cutting-edge web application using React.js on the frontend and Node.js/NestJS on the backend.<br><br>👯 I’m looking to collaborate on: Exciting projects involving React.js and Node.js/NestJS. If you have a passion for building scalable and innovative solutions, let's join forces!<br><br>🤝 I’m looking for help with: Optimizing server-side performance in Node.js. If you have insights or expertise, I'd love to learn from your experiences.<br><br>🌱 I’m currently learning: Advanced concepts in React.js for building more efficient and maintainable user interfaces.<br><br>💬 Ask me about: Anything related to React.js and Node.js/NestJS development! Whether it's troubleshooting, best practices, or discussing the latest trends, I'm all ears.<br><br>⚡ Fun fact: I once implemented a real-time collaboration feature in a project using WebSockets, turning a simple application into a dynamic and engaging experience for users.<br><br>Feel free to reach out for collaboration, advice, or just a friendly chat about the fascinating world of web development! 🚀✨
+🚀 Currently enhancing UX in a React.js/Node.js web app. 
+👯 Seeking React.js/Node.js projects. 
+🤝 Need help optimizing Node.js server performance. 
+🌱 Learning advanced React.js concepts. 
+💬 Ask me anything about React.js/Node.js/NestJS. 
+⚡ Fun fact: Implemented real-time collaboration with WebSockets. Let's collaborate or chat about web dev! 🚀✨
 
 
 ## 🌐 Socials:
